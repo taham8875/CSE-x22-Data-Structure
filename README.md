@@ -1,2 +1,2 @@
-# CSE-x22-Data-Structure
-Repo for my data structure course, 7th semester, Faculty of Engineering Alexandria University
+# CSE-x22-Data-Structures
+Repo for my data structures course, 7th semester, Faculty of Engineering Alexandria University
